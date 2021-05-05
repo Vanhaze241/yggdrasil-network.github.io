@@ -71,6 +71,11 @@ The following services are available on the Yggdrasil network, courtesy of our c
 - Main channel is #general
 - Accessible via Yggdrasil at 202:4768:121:63c1:418f:d523:3826:a0d5 ports 6667 (TCP)
 
+### Nexus IRC
+- Main channel is `#welcome
+- primarily german/english IRC Network
+- Accessible via Yggdrasil at 200:f910:bbf7:2ada:f7f0:14d6:6095 port 6667 (TCP)
+
 ### PirateIRC
 
 - `y.irc.pirateirc.net` accessible via Yggdrasil at `201:677d:1809:c5eb:202a:d39:e598:305` port `6697` (TCP+SSL)
